@@ -9,7 +9,7 @@ the flag of this challenge is the slogan of NCC
 
 please checkout this repo to play more advanced challenge
 
-``bash
+```bash
 https://github.com/nccasia/git-game-v2.git
 ```
 

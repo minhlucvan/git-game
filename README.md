@@ -5,6 +5,14 @@ Git Game Finish Line
 
 the flag of this challenge is the slogan of NCC 
 
+# Want more
+
+please checkout this repo to play more advanced challenge
+
+``bash
+https://github.com/nccasia/git-game-v2.git
+```
+
 If you did not update the main git-game repository, then we are disappointed in you!!
 =======
 

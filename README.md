@@ -1,6 +1,10 @@
 Git Game Finish Line
 ==========
 
+# Capture The Flag
+
+the flag of this challenge is the slogan of NCC 
+
 If you did not update the main git-game repository, then we are disappointed in you!!
 =======
 

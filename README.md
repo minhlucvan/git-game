@@ -1,6 +1,7 @@
 Git Game Finish Line
 ==========
 
+# Hello MinhLuc
 # Capture The Flag
 
 the flag of this challenge is the slogan of NCC 
